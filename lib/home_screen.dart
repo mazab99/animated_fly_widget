@@ -27,6 +27,7 @@ class HomeScreen extends StatelessWidget {
                   SizedBox(
                     height: 600,
 
+
                     width: 200,
                     child: SimpleShadow(
                       color: Colors.black.withAlpha(200),
